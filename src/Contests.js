@@ -47,7 +47,7 @@ const Contests = () => {
       {/* <Info /> */}
       <div className="container">
         <div className="container-small">{displayContent}</div>
-        <div className="card">
+        <div className="card pages">
           <ReactPaginate
             pageCount={pageCount}
             onPageChange={changePage}

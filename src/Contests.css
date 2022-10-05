@@ -11,12 +11,14 @@
     margin: 10px;
     padding-top: 10px;
     justify-content: center;
+
 }
 
 
 .container-small {
     display: flex;
     flex-wrap: wrap;
+
 }
 
 .card {
@@ -24,6 +26,9 @@
     align-items: center;
     justify-content: center;
     align-self: center;
+    /* max-width: 22%; */
+    /* background-color: white; */
+
 }
 
 /* 
@@ -32,4 +37,9 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+} */
+
+
+/* .pages {
+    background-color: #fff;
 } */
