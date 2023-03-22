@@ -4,15 +4,15 @@
     max-width: 500px;
     max-height: 400px;
     margin: 10px;
-    background-color: white;
 }
 
 .contest-card {
     position: relative;
+    background-color: white;
     display: block;
     /* column-span: 3; */
+    box-shadow: 3px 3px 1px 3px rgb(80, 80, 80);
     margin: 10px;
-    box-shadow: 3px 3px 1px 3px grey;
     border-radius: 5px;
     border: 5px grey;
     padding: 15px;

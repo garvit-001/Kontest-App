@@ -1,0 +1,382 @@
+[
+  {
+    "name": "ProjectEuler+",
+    "url": "https://hackerrank.com/contests/projecteuler",
+    "start_time": "2014-07-07T15:38:00.000Z",
+    "end_time": "2024-07-30T18:30:00.000Z",
+    "duration": "317616720.0",
+    "site": "HackerRank",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "R² Data Labs Responsible Growth Hack",
+    "url": "https://www.hackerearth.com/challenges/hackathon/rolls-royce/",
+    "start_time": "2023-02-10T00:30:00.000Z",
+    "end_time": "2023-04-02T18:25:00.000Z",
+    "duration": "4470900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Learn Coding for Brother Printers",
+    "url": "https://brother.hackerearth.com/",
+    "start_time": "2023-02-12T05:00:00.000Z",
+    "end_time": "2023-03-21T03:59:00.000Z",
+    "duration": "3193140.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "NuHarbor Hackathon",
+    "url": "https://polyglot.hackerearth.com/",
+    "start_time": "2023-02-25T05:01:00.000Z",
+    "end_time": "2023-04-01T03:55:00.000Z",
+    "duration": "3020040.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "GRIZZLYTHON",
+    "url": "https://grizzlython.hackerearth.com/",
+    "start_time": "2023-03-01T01:09:00.000Z",
+    "end_time": "2023-03-14T19:55:00.000Z",
+    "duration": "1190760.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Coding Challenge - Full-Stack",
+    "url": "https://www.hackerearth.com/challenges/hiring/intuit-fullstack-software-engineer-hiring-challenge/",
+    "start_time": "2023-03-03T12:30:00.000Z",
+    "end_time": "2023-03-12T18:25:00.000Z",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Fibe - Hack the Vibe!",
+    "url": "https://www.hackerearth.com/challenges/hackathon/fibe-hack-the-vibe/",
+    "start_time": "2023-03-10T12:30:00.000Z",
+    "end_time": "2023-04-23T23:30:00.000Z",
+    "duration": "3841200.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "March Easy '23",
+    "url": "https://www.hackerearth.com/challenges/competitive/march-easy-23/",
+    "start_time": "2023-03-11T04:00:00.000Z",
+    "end_time": "2023-03-11T07:00:00.000Z",
+    "duration": "10800.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "DSA Coding Contest - March '23",
+    "url": "https://www.hackerearth.com/challenges/competitive/dsa-coding-contest-march-23/",
+    "start_time": "2023-03-11T09:30:00.000Z",
+    "end_time": "2023-03-11T11:00:00.000Z",
+    "duration": "5400.0",
+    "site": "HackerEarth",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+  },
+  {
+    "name": "AtCoder Beginner Contest 293",
+    "url": "https://atcoder.jp/contests/abc293",
+    "start_time": "2023-03-11T12:00:00.000Z",
+    "end_time": "2023-03-11T13:40:00.000Z",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Weekly Contest 336",
+    "url": "https://leetcode.com/contest/weekly-contest-336",
+    "start_time": "2023-03-12T02:30:00.000Z",
+    "end_time": "2023-03-12T04:00:00.000Z",
+    "duration": "5400",
+    "site": "LeetCode",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+  },
+  {
+    "name": "AtCoder Regular Contest 158",
+    "url": "https://atcoder.jp/contests/arc158",
+    "start_time": "2023-03-12T12:00:00.000Z",
+    "end_time": "2023-03-12T14:00:00.000Z",
+    "duration": "7200",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Clash Wildcard 2023",
+    "url": "https://www.codechef.com/CLWD2023",
+    "start_time": "2023-03-12 14:30:00 UTC",
+    "end_time": "2023-03-12 16:30:00 UTC",
+    "duration": "7200",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Nebius Welcome Round (Div. 1 + Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1804",
+    "start_time": "2023-03-12T14:35:00.000Z",
+    "end_time": "2023-03-12T16:35:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Starters 81",
+    "url": "https://www.codechef.com/START81",
+    "start_time": "2023-03-15 14:30:00 UTC",
+    "end_time": "2023-03-15 17:30:00 UTC",
+    "duration": "10800",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Fractathon – Full Stack Hiring Hackathon for She/Her by Fractal!",
+    "url": "https://www.hackerearth.com/challenges/hiring/fractathon/",
+    "start_time": "2023-03-17T12:30:00.000Z",
+    "end_time": "2023-03-27T00:30:00.000Z",
+    "duration": "820800.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Toyota Programming Contest 2023 Spring Final",
+    "url": "https://atcoder.jp/contests/toyota2023spring-final",
+    "start_time": "2023-03-18T01:10:00.000Z",
+    "end_time": "2023-03-18T04:10:00.000Z",
+    "duration": "10800",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "MC Digital Programming Contest 2023（AtCoder Heuristic Contest 019）",
+    "url": "https://atcoder.jp/contests/ahc019",
+    "start_time": "2023-03-18T03:00:00.000Z",
+    "end_time": "2023-04-02T10:00:00.000Z",
+    "duration": "1321200",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Codeforces Round (Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1806",
+    "start_time": "2023-03-18T12:05:00.000Z",
+    "end_time": "2023-03-18T14:05:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Biweekly Contest 100",
+    "url": "https://leetcode.com/contest/biweekly-contest-100",
+    "start_time": "2023-03-18T14:30:00.000Z",
+    "end_time": "2023-03-18T16:00:00.000Z",
+    "duration": "5400",
+    "site": "LeetCode",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "AtCoder Beginner Contest 294",
+    "url": "https://atcoder.jp/contests/abc294",
+    "start_time": "2023-03-19T12:00:00.000Z",
+    "end_time": "2023-03-19T13:40:00.000Z",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Codeforces Round 858 (Div. 4)",
+    "url": "https://codeforces.com/contestRegistration/1807",
+    "start_time": "2023-03-19T14:35:00.000Z",
+    "end_time": "2023-03-19T16:50:00.000Z",
+    "duration": "8100",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Starters 82",
+    "url": "https://www.codechef.com/START82",
+    "start_time": "2023-03-22 14:30:00 UTC",
+    "end_time": "2023-03-22 17:30:00 UTC",
+    "duration": "10800",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Prochant Python Developer Hiring Challenge - 2023",
+    "url": "https://www.hackerearth.com/challenges/hiring/prochant-python-developer-hiring-challenge-2023/",
+    "start_time": "2023-03-23T12:30:00.000Z",
+    "end_time": "2023-04-03T01:30:00.000Z",
+    "duration": "910800.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Cisco Hack to Secure Challenge 2023",
+    "url": "https://hackerrank.com/contests/cisco-hack-to-secure-2023",
+    "start_time": "2023-03-24T03:30:00.000Z",
+    "end_time": "2023-03-26T15:30:00.000Z",
+    "duration": "216000.0",
+    "site": "HackerRank",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Mercedes-Benz Cloud Platform Developer Hiring Challenge v5.0",
+    "url": "https://www.hackerearth.com/challenges/hiring/mercedes-benz-cloud-platform-developer-hiring-challenge-v5/",
+    "start_time": "2023-03-24T12:30:00.000Z",
+    "end_time": "2023-04-03T00:30:00.000Z",
+    "duration": "820800.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "AtCoder Beginner Contest 295",
+    "url": "https://atcoder.jp/contests/abc295",
+    "start_time": "2023-03-25T12:00:00.000Z",
+    "end_time": "2023-03-25T13:40:00.000Z",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Codeforces Round (Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1798",
+    "start_time": "2023-03-26T14:35:00.000Z",
+    "end_time": "2023-03-26T16:35:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Codeforces Round (Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1808",
+    "start_time": "2023-03-29T09:05:00.000Z",
+    "end_time": "2023-03-29T11:05:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Starters 83",
+    "url": "https://www.codechef.com/START83",
+    "start_time": "2023-03-29 14:30:00 UTC",
+    "end_time": "2023-03-29 17:30:00 UTC",
+    "duration": "10800",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Codeforces Round (Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1805",
+    "start_time": "2023-04-02T14:35:00.000Z",
+    "end_time": "2023-04-02T16:35:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Codeforces Round (Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1797",
+    "start_time": "2023-04-08T14:05:00.000Z",
+    "end_time": "2023-04-08T16:05:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Round A",
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
+    "start_time": "2023-04-15T14:00:00.000Z",
+    "end_time": "2023-04-15T18:00:00.000Z",
+    "duration": "14400.0",
+    "site": "Kick Start",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Round B",
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
+    "start_time": "2023-04-15T14:00:00.000Z",
+    "end_time": "2023-04-15T18:00:00.000Z",
+    "duration": "14400.0",
+    "site": "Kick Start",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Round C",
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
+    "start_time": "2023-04-15T14:00:00.000Z",
+    "end_time": "2023-04-15T18:00:00.000Z",
+    "duration": "14400.0",
+    "site": "Kick Start",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Round D",
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
+    "start_time": "2023-04-15T14:00:00.000Z",
+    "end_time": "2023-04-15T18:00:00.000Z",
+    "duration": "14400.0",
+    "site": "Kick Start",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Consensus 2023 Hackathon",
+    "url": "https://web3athon2023.hackerearth.com/",
+    "start_time": "2023-04-17T05:00:00.000Z",
+    "end_time": "2023-06-01T03:59:00.000Z",
+    "duration": "3884340.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Tectone23 Hacks",
+    "url": "https://www.hackerearth.com/challenges/hackathon/tectone23-hacks/",
+    "start_time": "2023-04-21T13:39:00.000Z",
+    "end_time": "2023-05-19T18:25:00.000Z",
+    "duration": "2436360.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  }
+]
