@@ -36,7 +36,6 @@ const Contests = () => {
     };
 
     getContests();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
   //   if (searching === true) {
   //     return <Searching />;
