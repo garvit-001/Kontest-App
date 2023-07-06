@@ -1,6 +1,6 @@
 .container-big {
-    display: flex;
-    column-span: 3;
+    display: grid;
+    grid-column: span 3;    
     max-width: 500px;
     max-height: 400px;
     margin: 10px;
