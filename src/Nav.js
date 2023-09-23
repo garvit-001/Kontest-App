@@ -51,11 +51,6 @@ function Nav() {
             Password Generator
           </Link>
         </li>
-        <li className="list-item">
-          <Link className="link" to="/todo">
-            ToDO List
-          </Link>
-        </li>
       </ul>
     </div>
   );
