@@ -8,7 +8,7 @@ function Nav() {
       <ul className="list-head">
         <li className="list-item">
           <Link className="link" to="/">
-            Contest
+            Home
           </Link>
         </li>
         <li className="list-item">
